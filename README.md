@@ -1,8 +1,10 @@
 
 ![ilovedarkmode](https://raw.githubusercontent.com/YassineRKB/YassineRKB/main/images/Ilove%20Dark%20Mode.png)
 <h1 align="center">Hi , I'm Yassine Rakibi</h1>
-<h3 align="center">Just A Curious Software Engineer  \( '  > ')/ </h3>
-
+<h6 align="center">Just A Curious Software Engineer  \( '  > ')/ </h6>
+<p align="center">
+<a href="https://www.buymeacoffee.com/YassineRKB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 
 ### GITHUB STATS:
 
