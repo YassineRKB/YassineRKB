@@ -8,15 +8,11 @@
 
 <table>
   <tr>
-    <td>
+	  <p align="center">
        <a href="https://github.com/YassineRKB"><img alt="Yassine Rakibi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YassineRKB&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
        <a href="http://www.github.com/YassineRKB"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineRKB&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-    </td>
-    <td>
       <a href="https://github.com/YassineRKB"><img alt="Yassine Rakibi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineRKB&langs_count=10&count_private=true&layout=donut&theme=react&hide_border=false&bg_color=1d2a3a"/></a>
-    </td>
+      </p>
   </tr>
 </table>
 
@@ -33,7 +29,7 @@
       <h3 align="left">My Social Accs:</h3>
       <p align="center">
       <a href="https://www.linkedin.com/in/rakibi-yassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibi-yassine" height="30" width="40" /></a>
-      <a href="https://twitter.com/YassRKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YassRKB" height="30" width="40" /></a>
+      <a href="https://twitter.com/YassineRKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YassRKB" height="30" width="40" /></a>
       <a href="https://instagram.com/yass_rkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YASS_RKB" height="30" width="40" /></a>
       </p>
       <h3 align="left">Languages and Tools:</h3>
@@ -57,3 +53,4 @@
     </td>
   </tr>
 </table>
+<h3 align="center"> Thank you ! </h3>
