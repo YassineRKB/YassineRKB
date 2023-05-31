@@ -22,10 +22,10 @@
 <table>
   <tr>
     <td>
-      <p><img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="25" height="25"/> => Currently studing  in <b> ALX Software Engineering Program</b></p>
-      <p><img src="https://openmoji.org/data/color/svg/2728.svg" width="25" height="25"/> => i am Passionate About <b> Programming, Aerospace and Defense Industry</b></p>
-      <p><img src="https://openmoji.org/data/color/svg/1F4BC.svg" width="25" height="25"/> => Currntly working as CTO at <b><a href="https://arcraven.com/">ARCRAVEN</a></b></p>
-      <p><img src="https://openmoji.org/data/color/svg/1F4E7.svg" width="25" height="25"/> => How to reach me: <b><a href=mailto:yassine@arcraven.com alt=email>yassine@arcraven.com</a></b></p>
+      <p><img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="25" height="25"/> Currently studying  in <b> ALX Software Engineering Program</b></p>
+      <p><img src="https://openmoji.org/data/color/svg/2728.svg" width="25" height="25"/>  i am Passionate About <b> Programming, Aerospace and Defense Industry</b></p>
+      <p><img src="https://openmoji.org/data/color/svg/1F4BC.svg" width="25" height="25"/> Currntly working as CTO at <b><a href="https://arcraven.com/">ARCRAVEN</a></b></p>
+      <p><img src="https://openmoji.org/data/color/svg/1F4E7.svg" width="25" height="25"/> How to reach me: <b><a href=mailto:yassine@arcraven.com alt=email>yassine@arcraven.com</a></b></p>
     </td>
     <td>
       <h3 align="left">My Social Accs:</h3>
@@ -50,7 +50,10 @@
       <a href="https://www.php.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
       <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
       <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-      <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png" alt="proxmox" width="40" height="40"/> </a
+      <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png" alt="proxmox" width="40" height="40"/> </a>
+       <a href="https://www.cpanel.net/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/C/CPanel-logo-vector-01.svg" alt="Cpanel" width="40" height="40"/> </a>
+       <a href="https://www.directadmin.com/" target="_blank" rel="noreferrer"> <img src="https://www.directadmin.com/img/logo/logo_directadmin.svg" alt="DirectAdmin" width="40" height="40"/> </a>
+       <a href="https://www.plesk.com/" target="_blank" rel="noreferrer"> <img src="https://scdn1.plesk.com/wp-content/uploads/2022/07/29164422/Plesk-logo.png" alt="plesk" width="40" height="40"/> </a>
       </p>    
     </td>
   </tr>
