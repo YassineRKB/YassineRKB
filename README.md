@@ -8,7 +8,7 @@
 
 ### GITHUB STATS:
 
-  <p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true"><img  alt="YassineRKB's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YassineRKB?cardType=level-alternate&theme=tokyonight&preferLogin=true" /></a></p>
+  <p align="center"><img  alt="YassineRKB's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YassineRKB?cardType=level-alternate&theme=tokyonight&preferLogin=true" /></p>
 
 ### INFO:
 <table>
