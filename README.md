@@ -3,12 +3,9 @@
 <h1 align="center">Hi , I'm Yassine Rakibi</h1>
 <h6 align="center">Just A Curious Software Engineer  \( '  > ')/ </h6>
 <p align="center">
+<p align="center"><img  alt="YassineRKB's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=YassineRKB&theme=darkhub" /></p>
 <a href="https://www.buymeacoffee.com/YassineRKB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-
-### GITHUB STATS:
-
-  <p align="center"><img  alt="YassineRKB's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YassineRKB?cardType=level-alternate&theme=tokyonight&preferLogin=true" /></p>
 
 ### INFO:
 <table>
