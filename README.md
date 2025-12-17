@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <p><img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="25" height="25"/> Currently studying  in <b> ALX Software Engineering Program</b></p>
+      <p><img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="25" height="25"/> Graduated from <b> ALX Software Engineering Program</b></p>
       <p><img src="https://openmoji.org/data/color/svg/2728.svg" width="25" height="25"/>  i am Passionate About <b> Programming, Aerospace and Defense Industry</b></p>
       <p><img src="https://openmoji.org/data/color/svg/1F4BC.svg" width="25" height="25"/> Currntly working as CTO at <b><a href="https://arcraven.com/">ARCRAVEN</a></b></p>
       <p><img src="https://openmoji.org/data/color/svg/1F4E7.svg" width="25" height="25"/> How to reach me: <b><a href=mailto:yassine@arcraven.com alt=email>yassine@arcraven.com</a></b></p>
