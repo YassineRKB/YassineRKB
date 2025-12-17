@@ -1,6 +1,3 @@
-Fixed and enhanced personal README.md:
-
-```markdown
 ![ilovedarkmode](https://raw.githubusercontent.com/YassineRKB/YassineRKB/main/images/Ilove%20Dark%20Mode.png)
 <h1 align="center">Hi, I'm Yassine Rakibi</h1>
 <h6 align="center">Just A Curious Software Engineer  \( '  > ')/ </h6>
@@ -61,4 +58,3 @@ Comprehensive business analysis project including market research, cultural anal
 - Aerospace and defense industry exploration
 
 <h3 align="center"> Thank you ! </h3>
-```
