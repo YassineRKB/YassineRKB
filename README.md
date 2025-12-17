@@ -11,13 +11,13 @@
 <table>
   <tr>
     <td>
-      <p><img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="25" height="25"/> Currently studying  in <b> ALX Software Engineering Program</b></p>
+      <p><img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="25" height="25"/> Graduated from <b> ALX Software Engineering Program</b></p>
       <p><img src="https://openmoji.org/data/color/svg/2728.svg" width="25" height="25"/>  i am Passionate About <b> Programming, Aerospace and Defense Industry</b></p>
       <p><img src="https://openmoji.org/data/color/svg/1F4BC.svg" width="25" height="25"/> Currntly working as CTO at <b><a href="https://arcraven.com/">ARCRAVEN</a></b></p>
       <p><img src="https://openmoji.org/data/color/svg/1F4E7.svg" width="25" height="25"/> How to reach me: <b><a href=mailto:yassine@arcraven.com alt=email>yassine@arcraven.com</a></b></p>
     </td>
     <td>
-      <h3 align="left">My Social Accs:</h3>
+      <h3 align="left">My Social Accounts:</h3>
       <p align="center">
       <a href="https://www.linkedin.com/in/rakibi-yassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibi-yassine" height="30" width="40" /></a>
       <a href="https://twitter.com/YassineRKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YassRKB" height="30" width="40" /></a>
